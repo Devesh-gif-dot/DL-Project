@@ -81,8 +81,7 @@ DenseHillNet is built on the **DenseNet121** backbone with custom classification
 ### Section 1 & 2 — Setup & Dataset Preparation
 *(Yash Dighade, 24AI10049)*  
 Installs and imports all required libraries (TensorFlow, Keras, NumPy, Pandas, Matplotlib, Seaborn).   
-Sets up the dataset directory structure and loads glacier and mountain images using Keras `ImageDataGenerator`. 
-Splits data 50/50 into training and test sets.  
+Sets up the dataset directory structure and loads glacier and mountain images using Keras `ImageDataGenerator`.
 
 ### Section 3 & 4 — Preprocessing & Architecture
 *(Devesh Marya, 24AI10024)*  
